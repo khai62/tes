@@ -1,4 +1,4 @@
-![alt text](https://github.com/khai62/ilmuan/blob/main/lib/Screenshot_1715065795.png?raw=true)
+
 # tes
 
 A new Flutter project.
